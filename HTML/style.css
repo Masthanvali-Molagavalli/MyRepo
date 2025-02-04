@@ -1,0 +1,15 @@
+body{
+    color: red;
+}
+button{
+    background-color: black;
+    color: red;
+    border-radius: 5px;
+}
+button:hover{
+    height: 100px;
+    width: 1000px;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+}
