@@ -1,10 +1,12 @@
 body{
     color: red;
+    background-color: antiquewhite;
 }
 button{
     background-color: black;
     color: red;
     border-radius: 5px;
+
 }
 button:hover{
     height: 100px;
