@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@100..900&family=Roboto+Slab:wght@100..900&display=swap');
+body{
+    margin: 0;
+    font-family: "Noto Sans Symbols", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.color-container{
+    background-color: orange;
+    width: 300px;
+    height: 150px;
+    color: white;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border: solid black 2px;
+}
